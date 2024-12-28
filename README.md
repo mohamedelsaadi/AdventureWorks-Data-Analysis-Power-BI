@@ -59,3 +59,5 @@ Play Axis Icon: Enables automatic playback and visualization of data.
 ![bandicam 2024-12-28 14-20-26-572](https://github.com/user-attachments/assets/9400c9dd-d6d5-4cf2-a73c-3f25f6da3370)
 ![bandicam 2024-12-28 14-20-21-913](https://github.com/user-attachments/assets/e17be24e-9424-4f99-ac1e-b783340b55fe)
 ![bandicam 2024-12-28 14-20-30-762](https://github.com/user-attachments/assets/0095699f-89db-4485-a321-44bd156b6625)
+![bandicam 2024-12-28 14-28-23-695](https://github.com/user-attachments/assets/a00379ef-8ac9-424f-ac93-b9f35dad668a)
+
