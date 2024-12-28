@@ -1,12 +1,12 @@
 # AdventureWorks-Data-Analysis-Power-BI
-🚴 AdventureWorks Data Analysis
-📊 Overview
+# 🚴 AdventureWorks Data Analysis
+# 📊 Overview
 This project involves analyzing sales data for AdventureWorks, a fictitious company that sells outdoor equipment. The analysis focuses on product sales, salesperson performance, and territory-based orders. The dashboards provide insights into total sales, order details, and geographic distribution of sales.
 
 First Process:
 Data Source: collecting data from OLTP “Direct Query”
 Data Modelling: Star Schema
-🔍 All Process
+# 🔍 All Process
 Data Collection: Gathered sales data from AdventureWorks database.
 Data Extraction : Retrieved data from essential tables, views and function.
 Date Table Creation: Implemented an M language script to generate a comprehensive date dimension table for enhanced time-based analysis.
@@ -16,7 +16,7 @@ Measures: Created a set of critical measures for analysis, including the use of 
 Data Analysis: Performed descriptive statistics and trend analysis.
 Data Visualization: Created interactive dashboards using Power BI.
 Reporting: Summarized findings and prepared reports for stakeholders.
-🛒 Product Dashboard
+# 🛒 Product Dashboard
 Total Due: $123.22M
 Total Tax: $10.19M
 Subtotal: $109.85M
@@ -30,7 +30,7 @@ AWC Logo Cap (3382 orders)
 Patch Kit/8 Patches (3354 orders)
 Mountain Tire Tube (3095 orders)
 Sport-100 Helmet, Blue (3090 orders)
-👥 Sales Person Dashboard
+# 👥 Sales Person Dashboard
 Total Quantity Sold: 275K
 Number of Orders: 31K
 Number of Salespersons: 17
@@ -43,14 +43,14 @@ Number of Orders by Job Title:
 
 Sales Representative: Most orders
 Manager: Fewer orders
-🌍 Territory Dashboard
+# 🌍 Territory Dashboard
 Sum of Total Freight: $3.18M
 Number of Orders by Territory:
 
 North America: 4.1K orders
 Europe: 3.2K orders
 Asia: 6.8K orders
-🔍 New Visuals Discovered
+# 🔍 New Visuals Discovered
 To enhance the clarity and ease of capturing and searching data, the following new Power BI visuals were utilized:
 
 Text Filter: Allows users to search for specific products easily.
